@@ -11,7 +11,7 @@ menu.onclick = () => {
     
 }
 const  typed = new Typed('.multiple-text', {
-    strings: ['Student', 'UI/UX designer','Data analyst','Innovator'],
+    strings: ['Student', 'UI/UX designer','Data analyst','Innovator','AI Wizard'],
     typeSpeed:80,
     backSpeed: 80,
     loop: true,
